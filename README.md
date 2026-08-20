@@ -42,7 +42,7 @@ https://study-planner-api-ichs.onrender.com
 * Node.js
 * Express.js
 * MongoDB Atlas
-* Mongoose
+* Mongooose
 
 ### Deployment
 
